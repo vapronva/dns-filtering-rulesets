@@ -1,64 +1,64 @@
-@@|vapronva.pw^ # personal website
-@@|scw.cloud^ # scaleway hosting
-@@|hatkc.ml^ # personal website
-@@|nucozer-tracker.ml^ # torrent tracker
-@@|btracker.top^ # torrent tracker
-@@|gcorelabs.com^ # gcorelabs hosting
-@@|core.pw^ # gcorelabs hosting
-@@|abir.ga^ # torrent tracker
-@@|torland.ga^ # torrent tracker
-@@|elven.pw^ # personal website + mastodon instance [fdvrs]
-@@|lolison.top^ # pleroma instance [fdvrs]
-@@|mastodon.top^ # mastodon instance [fdvrs]
-@@|sadium.ml^ # personal website + self-hosted services
-@@|arcades.agency^ # personal website
-@@|wilmhit.pw^ # personal website
-@@|redroo.ml^ # mastodon instance [fdvrs]
-@@|adol.pw^ # personal website
-@@|beepboop.ga^ # torrent tracker
-@@|securetown.top^ # self-hosted services
-@@|c.im^
-@@|gh0.pw^
-@@|xerg.ga^
-@@|syui.cf^
-@@|loma.ml^
-@@|michci.ooo^
-@@|ryona.agency^
-@@|tr.abirxo.cf^
-@@|tr.abiir.top^
-@@|mastodon.cf^
-@@|go.theregister.com^
-@@|101010.pl^
-@@|ipinfo.io^
-@@|abirxo.cf^
-@@|darkshark9k.ml^
-@@|social.sakamoto.gq^
-@@|n910616h.beget.tech^
-@@|0x10a9b.pw^
-@@|nilesh.trivedi.pw^
-@@|thats-a-nice-argument-unfortunately.com^
-@@|tchncs.de^
-@@|ericaftereric.top^
-@@|loganjohndarylgraham.xyz^
-@@|api.ipify.org^
-@@|jsonip.com^
-@@|unx.pw^
-@@|codeberg.com^
-@@|mediawrite.agency^
-@@|gappjust.ml^
-@@|cygis.cf^
-@@|indieweb.social^
-@@|busshi.moe^
-@@|logo.clearbit.com
-@@|glotorrents.pw^
-@@|ofthe.top^
-@@|technobakkal.gq^
-@@|orenoaiba.ga^
-@@|graylog.com^
-@@|t.me^
-@@|tracker.opentrackr.org^
-@@|metasyn.pw^
-@@|fedi.agency^
-@@|wasabisys.com^
-@@|asonix.dog^
-@@|fonts.googleapis.com
+@@||vapronva.pw^$important # personal website
+@@||scw.cloud^ # scaleway hosting
+@@||hatkc.ml^ # personal website
+@@||nucozer-tracker.ml^ # torrent tracker
+@@||btracker.top^ # torrent tracker
+@@||gcorelabs.com^ # gcorelabs hosting
+@@||core.pw^ # gcorelabs hosting
+@@||abir.ga^ # torrent tracker
+@@||torland.ga^ # torrent tracker
+@@||elven.pw^ # personal website + mastodon instance [fdvrs]
+@@||lolison.top^ # pleroma instance [fdvrs]
+@@||mastodon.top^ # mastodon instance [fdvrs]
+@@||sadium.ml^ # personal website + self-hosted services
+@@||arcades.agency^ # personal website
+@@||wilmhit.pw^ # personal website
+@@||redroo.ml^ # mastodon instance [fdvrs]
+@@||adol.pw^ # personal website
+@@||beepboop.ga^ # torrent tracker
+@@||securetown.top^ # self-hosted services
+@@||c.im^
+@@||gh0.pw^
+@@||xerg.ga^
+@@||syui.cf^
+@@||loma.ml^
+@@||michci.ooo^
+@@||ryona.agency^
+@@||tr.abirxo.cf^
+@@||tr.abiir.top^
+@@||mastodon.cf^
+@@||go.theregister.com^
+@@||101010.pl^
+@@||ipinfo.io^
+@@||abirxo.cf^
+@@||darkshark9k.ml^
+@@||social.sakamoto.gq^
+@@||n910616h.beget.tech^
+@@||0x10a9b.pw^
+@@||nilesh.trivedi.pw^
+@@||thats-a-nice-argument-unfortunately.com^
+@@||tchncs.de^
+@@||ericaftereric.top^
+@@||loganjohndarylgraham.xyz^
+@@||api.ipify.org^
+@@||jsonip.com^
+@@||unx.pw^
+@@||codeberg.com^
+@@||mediawrite.agency^
+@@||gappjust.ml^
+@@||cygis.cf^
+@@||indieweb.social^
+@@||busshi.moe^
+@@||logo.clearbit.com
+@@||glotorrents.pw^
+@@||ofthe.top^
+@@||technobakkal.gq^
+@@||orenoaiba.ga^
+@@||graylog.com^
+@@||t.me^
+@@||tracker.opentrackr.org^
+@@||metasyn.pw^
+@@||fedi.agency^
+@@||wasabisys.com^
+@@||asonix.dog^
+@@||fonts.googleapis.com
