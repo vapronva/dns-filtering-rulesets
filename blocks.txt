@@ -1,8 +1,15 @@
-||dp.tinkoff.ru # (rus) tinkoff bank tracking
-||api-statist.tinkoff.ru # (rus) tinkoff bank tracking
-||dp.tinkoffinsurance.ru # (rus) tinkoff bank tracking
-||ms-dsp.tinkoff.ru # (rus) tinkoff bank tracking
-||cobrowsing.tinkoff.ru # (rus) tinkoff bank tracking
-||metrics.icloud.com # apple icloud metrics
-||stats.uptimerobot.com # uptimeroboot stats
-||clck.ru^ # yandex's link shortener
+# (rus) tinkoff bank tracking
+||dp.tinkoff.ru
+||api-statist.tinkoff.ru
+||dp.tinkoffinsurance.ru
+||ms-dsp.tinkoff.ru
+||cobrowsing.tinkoff.ru
+
+# apple icloud metrics
+||metrics.icloud.com
+
+# uptimeroboot stats
+||stats.uptimerobot.com
+
+# yandex's link shortener
+||clck.ru^
