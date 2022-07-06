@@ -1,64 +1,64 @@
-0.0.0.0 *.vapronva.pw # personal website
-0.0.0.0 *scw.cloud # scaleway hosting
-0.0.0.0 *hatkc.ml # personal website
-0.0.0.0 *nucozer-tracker.ml # torrent tracker
-0.0.0.0 *btracker.top # torrent tracker
-0.0.0.0 *gcorelabs.com # gcorelabs hosting
-0.0.0.0 *core.pw # gcorelabs hosting
-0.0.0.0 *abir.ga # torrent tracker
-0.0.0.0 *torland.ga # torrent tracker
-0.0.0.0 *elven.pw # personal website + mastodon instance [fdvrs]
-0.0.0.0 *lolison.top # pleroma instance [fdvrs]
-0.0.0.0 *mastodon.top # mastodon instance [fdvrs]
-0.0.0.0 *sadium.ml # personal website + self-hosted services
-0.0.0.0 *arcades.agency # personal website
-0.0.0.0 *wilmhit.pw # personal website
-0.0.0.0 *redroo.ml # mastodon instance [fdvrs]
-0.0.0.0 *adol.pw # personal website
-0.0.0.0 *beepboop.ga # torrent tracker
-0.0.0.0 *securetown.top
-0.0.0.0 *c.im
-0.0.0.0 *gh0.pw
-0.0.0.0 *xerg.ga
-0.0.0.0 *syui.cf
-0.0.0.0 *loma.ml
-0.0.0.0 *michci.ooo
-0.0.0.0 *ryona.agency
-0.0.0.0 *tr.abirxo.cf
-0.0.0.0 *tr.abiir.top
-0.0.0.0 *mastodon.cf
-0.0.0.0 *go.theregister.com
-0.0.0.0 *101010.pl
-0.0.0.0 *ipinfo.io
-0.0.0.0 *abirxo.cf
-0.0.0.0 *darkshark9k.ml
-0.0.0.0 *sakamoto.gq
-0.0.0.0 n910616h.beget.tech
-0.0.0.0 *0x10a9b.pw
-0.0.0.0 *nilesh.trivedi.pw
-0.0.0.0 *thats-a-nice-argument-unfortunately.com
-0.0.0.0 *tchncs.de
-0.0.0.0 *ericaftereric.top
-0.0.0.0 *loganjohndarylgraham.xyz
-0.0.0.0 api.ipify.org
-0.0.0.0 *jsonip.com
-0.0.0.0 *unx.pw
-0.0.0.0 *codeberg.com
-0.0.0.0 *mediawrite.agency
-0.0.0.0 *gappjust.ml
-0.0.0.0 *cygis.cf
-0.0.0.0 *indieweb.social
-0.0.0.0 *busshi.moe
-0.0.0.0 logo.clearbit.com
-0.0.0.0 *glotorrents.pw
-0.0.0.0 *ofthe.top
-0.0.0.0 *technobakkal.gq
-0.0.0.0 *orenoaiba.ga
-0.0.0.0 *graylog.com
-0.0.0.0 *t.me
-0.0.0.0 *tracker.opentrackr.org
-0.0.0.0 *metasyn.pw
-0.0.0.0 *fedi.agency
-0.0.0.0 *wasabisys.com
-0.0.0.0 *asonix.dog
-0.0.0.0 fonts.googleapis.com
+@@|vapronva.pw^ # personal website
+@@|scw.cloud^ # scaleway hosting
+@@|hatkc.ml^ # personal website
+@@|nucozer-tracker.ml^ # torrent tracker
+@@|btracker.top^ # torrent tracker
+@@|gcorelabs.com^ # gcorelabs hosting
+@@|core.pw^ # gcorelabs hosting
+@@|abir.ga^ # torrent tracker
+@@|torland.ga^ # torrent tracker
+@@|elven.pw^ # personal website + mastodon instance [fdvrs]
+@@|lolison.top^ # pleroma instance [fdvrs]
+@@|mastodon.top^ # mastodon instance [fdvrs]
+@@|sadium.ml^ # personal website + self-hosted services
+@@|arcades.agency^ # personal website
+@@|wilmhit.pw^ # personal website
+@@|redroo.ml^ # mastodon instance [fdvrs]
+@@|adol.pw^ # personal website
+@@|beepboop.ga^ # torrent tracker
+@@|securetown.top^ # self-hosted services
+@@|c.im^
+@@|gh0.pw^
+@@|xerg.ga^
+@@|syui.cf^
+@@|loma.ml^
+@@|michci.ooo^
+@@|ryona.agency^
+@@|tr.abirxo.cf^
+@@|tr.abiir.top^
+@@|mastodon.cf^
+@@|go.theregister.com^
+@@|101010.pl^
+@@|ipinfo.io^
+@@|abirxo.cf^
+@@|darkshark9k.ml^
+@@|social.sakamoto.gq^
+@@|n910616h.beget.tech^
+@@|0x10a9b.pw^
+@@|nilesh.trivedi.pw^
+@@|thats-a-nice-argument-unfortunately.com^
+@@|tchncs.de^
+@@|ericaftereric.top^
+@@|loganjohndarylgraham.xyz^
+@@|api.ipify.org^
+@@|jsonip.com^
+@@|unx.pw^
+@@|codeberg.com^
+@@|mediawrite.agency^
+@@|gappjust.ml^
+@@|cygis.cf^
+@@|indieweb.social^
+@@|busshi.moe^
+@@|logo.clearbit.com
+@@|glotorrents.pw^
+@@|ofthe.top^
+@@|technobakkal.gq^
+@@|orenoaiba.ga^
+@@|graylog.com^
+@@|t.me^
+@@|tracker.opentrackr.org^
+@@|metasyn.pw^
+@@|fedi.agency^
+@@|wasabisys.com^
+@@|asonix.dog^
+@@|fonts.googleapis.com
