@@ -1,22 +1,22 @@
-@@||vapronva.pw^$important # personal website
-@@||scw.cloud^ # scaleway hosting
-@@||hatkc.ml^ # personal website
-@@||nucozer-tracker.ml^ # torrent tracker
-@@||btracker.top^ # torrent tracker
-@@||gcorelabs.com^ # gcorelabs hosting
-@@||core.pw^ # gcorelabs hosting
-@@||abir.ga^ # torrent tracker
-@@||torland.ga^ # torrent tracker
-@@||elven.pw^ # personal website + mastodon instance [fdvrs]
-@@||lolison.top^ # pleroma instance [fdvrs]
-@@||mastodon.top^ # mastodon instance [fdvrs]
-@@||sadium.ml^ # personal website + self-hosted services
-@@||arcades.agency^ # personal website
-@@||wilmhit.pw^ # personal website
-@@||redroo.ml^ # mastodon instance [fdvrs]
-@@||adol.pw^ # personal website
-@@||beepboop.ga^ # torrent tracker
-@@||securetown.top^ # self-hosted services
+@@||vapronva.pw^$important
+@@||scw.cloud^$important
+@@||hatkc.ml^$important
+@@||nucozer-tracker.ml^$important
+@@||btracker.top^$important
+@@||gcorelabs.com^$important
+@@||core.pw^$important
+@@||abir.ga^$important
+@@||torland.ga^$important
+@@||elven.pw^$important
+@@||lolison.top^$important
+@@||mastodon.top^$important
+@@||sadium.ml^$important
+@@||arcades.agency^$important
+@@||wilmhit.pw^$important
+@@||redroo.ml^$important
+@@||adol.pw^$important
+@@||beepboop.ga^$important
+@@||securetown.top^$important
 @@||c.im^
 @@||gh0.pw^
 @@||xerg.ga^
