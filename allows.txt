@@ -1,64 +1,323 @@
+# personal website
 @@||vapronva.pw^
+
+# scaleway hosting
 @@||scw.cloud^
+
+# personal website
 @@||hatkc.ml^
+
+# bittorrent tracker
 @@||nucozer-tracker.ml^
+
+# bittorrent tracker
 @@||btracker.top^
+
+# gcorelabs hosting
 @@||gcorelabs.com^
+
+# gcorelabs hosting (api)
 @@||core.pw^
+
+# bittorrent tracker
 @@||abir.ga^
+
+# bittorrent tracker
 @@||torland.ga^
+
+# personal website and self-hosted services
 @@||elven.pw^
+
+# pleroma instance (fediverse)
 @@||lolison.top^
+
+# mastodon instance (fediverse)
 @@||mastodon.top^
+
+# personal website and self-hosted services
 @@||sadium.ml^
+
+# personal website
 @@||arcades.agency^
+
+# personal website
 @@||wilmhit.pw^
+
+# mastodon instance (fediverse)
 @@||redroo.ml^
+
+# personal website (blog)
 @@||adol.pw^
-@@||beepboop.ga^
+
+# self-hosted services and community
 @@||securetown.top^
+
+# mastodon instance (fediverse)
 @@||c.im^
+
+# personal website
 @@||gh0.pw^
+
+# mastodon instance (fediverse)
 @@||xerg.ga^
+
+# personal website (blog) + self-hosted services
 @@||syui.cf^
+
+# friendica instance (fediverse)
 @@||loma.ml^
+
+# personal website
 @@||michci.ooo^
+
+# pleroma instance (fediverse)
 @@||ryona.agency^
+
+# bittorrent tracker
 @@||tr.abirxo.cf^
+
+# bittorrent tracker
 @@||tr.abiir.top^
+
+# mastodon instance (fediverse)
 @@||mastodon.cf^
-@@||go.theregister.com^
+
+# mass media website
+@@||theregister.com^
+
+# mastodon instance (fediverse)
 @@||101010.pl^
+
+# ip-address intelligence api
 @@||ipinfo.io^
-@@||abirxo.cf^
+
+# personal website (blog)
 @@||darkshark9k.ml^
-@@||social.sakamoto.gq^
+
+# personal website + self-hosted services
+@@||sakamoto.gq^
+
+# joke website
 @@||n910616h.beget.tech^
+
+# personal website + self-hosted services
 @@||0x10a9b.pw^
+
+# personal website
 @@||nilesh.trivedi.pw^
+
+# joke website
 @@||thats-a-nice-argument-unfortunately.com^
+
+# personal website + self-hosted services
 @@||tchncs.de^
+
+# personal website (blog)
 @@||ericaftereric.top^
+
+# misskey instance (fediverse)
 @@||loganjohndarylgraham.xyz^
-@@||api.ipify.org^
-@@||jsonip.com^
+
+# ip-address intelligence api
+@@||api.ipify.org
+
+# personal website
 @@||unx.pw^
+
+# git hosting and community
 @@||codeberg.com^
+
+# content agency
 @@||mediawrite.agency^
+
+# personal website
 @@||gappjust.ml^
-@@||cygis.cf^
+
+# mastodon instance (fediverse)
 @@||indieweb.social^
+
+# ??? (self-hosted services)
 @@||busshi.moe^
+
+# logos and icons assets
 @@||logo.clearbit.com
+
+# bittorrent tracker
 @@||glotorrents.pw^
+
+# personal website (blog)
 @@||ofthe.top^
-@@||technobakkal.gq^
+
+# personal website (blog)
 @@||orenoaiba.ga^
+
+# log management solutions
 @@||graylog.com^
+
+# telegram short link
 @@||t.me^
-@@||tracker.opentrackr.org^
+
+# bittorrent tracker
+@@||tracker.opentrackr.org
+
+# personal website (blog)
 @@||metasyn.pw^
+
+# fediverse community and services
 @@||fedi.agency^
+
+# wasabi cloud storage
 @@||wasabisys.com^
+
+# mastodon instance (fediverse) and other self-hosted services
 @@||asonix.dog^
+
+# google static fonts
 @@||fonts.googleapis.com
+
+# joke website
+@@||how-i-experience-web-today.com^
+
+# dropbox cloud storage
+@@||drop.com^
+
+# maxmind ip-address intelligence updates
+@@||updates.maxmind.com
+
+# maxmind ip-address intelligence donwloads
+@@||download.maxmind.com
+
+# apple appstore api
+@@||amp-api-edge.apps.apple.com
+
+# bittorrent tracker
+@@||acgnxtracker.com^
+
+# e-mail relay service
+@@||simplelogin.io^
+
+# rutube video hosting (russian)
+@@||rutube.ru^
+
+# company [oss] blog
+@@||blog.simpleanalytics.com
+
+# useful website
+@@||thatoneprivacysite.xyz^
+
+# edge security company (russian)
+@@||ngenix.net^
+
+# video management service company
+@@||zype.com^
+
+# mastodon instance (fediverse)
+@@||climatejustice.social^
+
+# random blog
+@@||glitterwillowforest.xyz^
+
+# self-hosted services (fediverse)
+@@||autonomous-zone.earth^
+
+# personal website + self-hosted services
+@@||jabbxi.de^
+
+# personal website + self-hosted services
+@@||electronblueberry.xyz^
+
+# ??? (self-hosted services)
+@@||minecraftanarquia.xyz^
+
+# community lookup service for roskomnadzor (russian)
+@@||reestr.rublacklist.net^
+
+# ip-address intelligence api
+@@||myip.wtf^
+
+# ip-address intelligence api
+@@||icanhazip.com^
+
+# photoprism photo management service
+@@||photoprism.app^
+
+# different intelligence tools for websites (api) (russian)
+@@||suggestions.dadata.ru
+
+# gopro company website
+@@||gopro.com^
+
+# xiaomi iot devices api
+@@||api.io.mi.com^
+
+# anime shop (russian)
+@@||fast-anime.ru^
+
+# soundcloud account api
+@@||secure.soundcloud.com
+
+# personal website (blog)
+@@||qwq2333.top^
+
+# personal website + self-hosted services
+@@||neonight.ga^
+
+# self-hosted services (fediverse)
+@@||yff.pw^
+
+# personal website
+@@||houl.ml^
+
+# mass media website (russian)
+@@||lenta.ru
+
+# epic games company
+@@||epicgames.com^
+
+# mastodon instance (fediverse)
+@@||nerdculture.de^
+
+# personal website (blog)
+@@||tolstoevsky.ml^
+
+# personal website + community + self-hosted services
+@@||antarctic.ga^
+
+# personal website
+@@||lefty.ml^
+
+# personal website (blog)
+@@||bemyak.ml^
+
+# ??? / personal website
+@@||arzinfo.pw^
+
+# community + self-hosted services
+@@||wrasse.pw^
+
+# gravatar service (image hosting)
+@@||secure.gravatar.com
+
+# website (generator; nonprofit)
+@@||freeprivacypolicy.com^
+
+# github previews (images)
+@@||opengraph.githubassets.com
+
+# personal website
+@@||moth.monster^
+
+# personal website
+@@||cnx.gdn^
+
+# personal website
+@@||hxvy0.gq^
+
+# company website (nonprofit) (???)
+@@||futursoft.gq^
+
+# social network (russian)
+@@||vk.com^
+
+# social network (russian)
+@@||vk.me^

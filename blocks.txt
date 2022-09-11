@@ -1,8 +1,16 @@
-# (rus) tinkoff bank tracking
+# tinkoff bank tracking (russian)
 ||dp.tinkoff.ru
+
+# tinkoff bank tracking (russian)
 ||api-statist.tinkoff.ru
+
+# tinkoff bank tracking (russian)
 ||dp.tinkoffinsurance.ru
+
+# tinkoff bank tracking (russian)
 ||ms-dsp.tinkoff.ru
+
+# tinkoff bank tracking (russian)
 ||cobrowsing.tinkoff.ru
 
 # apple icloud metrics
@@ -13,3 +21,6 @@
 
 # yandex's link shortener
 ||clck.ru^
+
+# itmo university analytics
+||sentry.itmo.su
