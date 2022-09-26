@@ -321,3 +321,76 @@
 
 # social network (russian)
 @@||vk.me^
+
+# community and federative services
+@@||that.monster^
+
+# hosting services for self-hosted services
+@@||fedi.monster^
+
+# link aggregator (fediverse)
+@@||lemmygrad.ml^
+
+# analytics service
+@@||newrelic.com^
+
+# analytics service
+@@||datadoghq.com^
+
+# newrelic opentelemetry collector
+@@||nr-data.net^
+
+# newrelic nerdpacks and assets
+@@||nr-ext.net^
+
+# newrelic link sharing
+@@||onenr.io
+
+# synthetics code editor
+@@||typescript.azureedge.net^
+
+
+# simplelogin email relay service
+@@||simplelogin.co^
+
+# analytics service
+@@||datadoghq.eu^
+
+# personal website + self-hosted services
+@@||alid.pw^
+
+# self-hosted services + community
+@@||beepboop.ga^
+
+# yandex sso passport (russian)
+@@||sso.passport.yandex.ru^
+
+# documentation website
+@@||docs.plausible.io
+
+# images hosting by yandex (russian)
+@@||avatars.mds.yandex.net
+
+# mastodon instance
+@@||skunk.agency^
+
+# activity relay for fediverse
+@@||fedi.tools^
+
+# nn smarthome api (chinese)
+@@||smartlook.cloud^
+
+# personal website + self-hosted services
+@@||pepegapepe.ga^
+
+# contabo hosting services [storage]
+@@||contabostorage.com^
+
+# self-hosted services + personal thingies
+@@||greentrawler.space^
+
+# consultancy company website
+@@||cocoate.com^
+
+# personal website + self-hosted services
+@@||trbexe.ml^
