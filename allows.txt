@@ -394,3 +394,96 @@
 
 # personal website + self-hosted services
 @@||trbexe.ml^
+
+# tinkoff bank email links (russian)
+@@||link.emails.tinkoff.ru
+
+# bunnycdn overall rule
+@@||b-cdn.net^
+
+# intercom chat widget
+@@||js.intercomcdn.com
+
+# atlassian statuspage
+@@||statuspage.com^
+
+# cloudflare dns resolver
+@@||cloudflare-dns.com^
+
+# spotify link sharing
+@@||open.spotify.com
+
+# personal website + self-hosted services
+@@||atico.ga^
+
+# freenas / truenas usage analytics
+@@||usage.freenas.org
+
+# link lengthener
+@@||aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com^
+
+# gravatar service (avatars; image hosting)
+@@||s.gravatar.com
+
+# mastodon instance (fediverse)
+@@||qoto.org^
+
+# fediverse-related to mastodon themeing
+@@||miy.pw^
+
+# russian news and blogging website
+@@||roem.ru
+
+# google forms link shortener
+@@||forms.gle
+
+# istat menus app ip resolver
+@@||ip.istatmenus.app
+
+# ip geolocation service
+@@||get.geojs.io
+
+# podcasts hosting by spotify
+@@||traffic.megaphone.fm
+
+# fediverse-related instance
+@@||counter.social^
+
+# personal website
+@@||spacy.ga^
+
+# apple appstore search
+@@||amp-api-search-edge.apps.apple.com^
+
+# pleroma instance (fediverse)
+@@||ghetti.monster^
+
+# microsoft network (news) main website
+@@||www.msn.com
+
+# apple music fairplay token generator
+@@||sf-api-token-service.itunes.apple.com
+
+# internet wesbite related to one topic
+@@||githubcopilotinvestigation.com^
+
+# personal website
+@@||pathologicalfunction.xyz^
+
+# "know your meme" website
+@@||knowyourmeme.com
+
+# nitter instance
+@@||nitter.pw^
+
+# mastodon instance (fediverse)
+@@||ioc.exchange^
+
+# apple music search
+@@||amp-api-edge.music.apple.com
+
+# mastodon instance (fediverse)
+@@||mashiro.top^
+
+# mastodon instance (fediverse)
+@@||fores.top^

@@ -24,3 +24,6 @@
 
 # itmo university analytics
 ||sentry.itmo.su
+
+# sbermegamarket sentry analytics
+||sentry-customers.megamarket.tech^
