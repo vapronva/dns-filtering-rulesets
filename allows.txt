@@ -4,12 +4,6 @@
 # scaleway hosting
 @@||scw.cloud^
 
-# personal website
-@@||hatkc.ml^
-
-# bittorrent tracker
-@@||nucozer-tracker.ml^
-
 # bittorrent tracker
 @@||btracker.top^
 
@@ -18,9 +12,6 @@
 
 # gcorelabs hosting (api)
 @@||core.pw^
-
-# bittorrent tracker
-@@||abir.ga^
 
 # bittorrent tracker
 @@||torland.ga^
@@ -115,14 +106,8 @@
 # personal website (blog)
 @@||ericaftereric.top^
 
-# misskey instance (fediverse)
-@@||loganjohndarylgraham.xyz^
-
 # ip-address intelligence api
 @@||api.ipify.org
-
-# personal website
-@@||unx.pw^
 
 # git hosting and community
 @@||codeberg.com^
@@ -135,9 +120,6 @@
 
 # mastodon instance (fediverse)
 @@||indieweb.social^
-
-# ??? (self-hosted services)
-@@||busshi.moe^
 
 # logos and icons assets
 @@||logo.clearbit.com
@@ -190,9 +172,6 @@
 # apple appstore api
 @@||amp-api-edge.apps.apple.com
 
-# bittorrent tracker
-@@||acgnxtracker.com^
-
 # e-mail relay service
 @@||simplelogin.io^
 
@@ -223,10 +202,7 @@
 # personal website + self-hosted services
 @@||jabbxi.de^
 
-# personal website + self-hosted services
-@@||electronblueberry.xyz^
-
-# ??? (self-hosted services)
+# minecraft server + self-hosted services
 @@||minecraftanarquia.xyz^
 
 # community lookup service for roskomnadzor (russian)
@@ -283,13 +259,10 @@
 # personal website + community + self-hosted services
 @@||antarctic.ga^
 
-# personal website
-@@||lefty.ml^
-
 # personal website (blog)
 @@||bemyak.ml^
 
-# ??? / personal website
+# personal website + self-hosted services
 @@||arzinfo.pw^
 
 # community + self-hosted services
@@ -313,7 +286,7 @@
 # personal website
 @@||hxvy0.gq^
 
-# company website (nonprofit) (???)
+# company website (nonprofit)
 @@||futursoft.gq^
 
 # social network (russian)
@@ -332,23 +305,7 @@
 @@||lemmygrad.ml^
 
 # analytics service
-@@||newrelic.com^
-
-# analytics service
 @@||datadoghq.com^
-
-# newrelic opentelemetry collector
-@@||nr-data.net^
-
-# newrelic nerdpacks and assets
-@@||nr-ext.net^
-
-# newrelic link sharing
-@@||onenr.io
-
-# synthetics code editor
-@@||typescript.azureedge.net^
-
 
 # simplelogin email relay service
 @@||simplelogin.co^
@@ -487,3 +444,348 @@
 
 # mastodon instance (fediverse)
 @@||fores.top^
+
+# personal website
+@@||bigrat.monster^
+
+# news website about technology
+@@||www.zdnet.com
+
+# news website (netherlands)
+@@||www.nu.nl
+
+# news website (netherlands)
+@@||media.nu.nl
+
+# personal website + self-hosted services
+@@||rfs.pw^
+
+# oss software website (nonprofit)
+@@||thedesk.top^
+
+# personal website + self-hosted services
+@@||weibo.sbs^
+
+# personal website + self-hosted services
+@@||zotan.pw^
+
+# joke website + public game software
+@@||thegreatestgameyouwilleverplay.com^
+
+# personal websites + self-hosted services
+@@||whirling.top^
+
+# personal website + self-hosted services
+@@||fellr.net^
+
+# forum (phpbb) for various topics
+@@||fedibb.ml^
+
+# company website (german)
+@@||arbeitswelten-lebenswelten.com^
+
+# gravatar service (avatars; image hosting)
+@@||en.gravatar.com^
+
+# mastodon instance + other fediverse-related services
+@@||kakafe.ga^
+
+# gravatar service api
+@@||lb.gravatar.com
+
+# gravatar service (avatars; image hosting)
+@@||1.gravatar.com
+
+# gravatar service (avatars; image hosting)
+@@||0.gravatar.com
+
+# apple app store api (search)
+@@||api.apps.apple.com
+
+# apple app store api (search)
+@@||api-edge.apps.apple.com
+
+# personal website
+@@||gins.pw^
+
+# personal website + self-hosted services
+@@||chambers.pw^
+
+# personal website (blog) + self-hosted services (fediverse)
+@@||krivokuca.dev^
+
+# personal website
+@@||sabamirin7820.ml^
+
+# personal website
+@@||mikolajkazmierczak.ml^
+
+# personal website
+@@||yottabyte.cf^
+
+# personal website
+@@||nuel.pw^
+
+# personal website + self-hosted services
+@@||dmgd.monster^
+
+# personal website + self-hosted services
+@@||gianmarco.ga^
+
+# community + self-hosted services
+@@||opendesktop.org^
+
+# self-hosted services + mail
+@@||flying-snail.de^
+
+# google firebase storage
+@@||firebasestorage.googleapis.com
+
+# national security agency (usa)
+@@||www.nsa.gov
+
+# company website - printing and design
+@@||pixels.com^
+
+# reverse ip geolocation service
+@@||jsonip.com
+
+# my ip service
+@@||ip.42.pl
+
+# self-hosted services
+@@||wolfie.pw^
+
+# akkoma instance
+@@||hermitmountain.top^
+
+# joke website
+@@||then-who-the-hell-else-are-you-talking-to.com
+
+# mastodon instance + community
+@@||foodin.ga^
+
+# joke website
+@@||well-i-am-the-only-one-here.com
+
+# joke website
+@@||who-the-fuck-do-you-think-you-are-talking-to.com
+
+# joke website
+@@||you-talking-to-me-you-talking-to-me-you-talking-to-me.com
+
+# public url shortener service
+@@||is.gd
+
+# self-hosted services + personal website
+@@||unknown.sbs^
+
+# misskey instance + community
+@@||misskey.cf^
+
+# self-hosted services
+@@||pixels.pizza^
+
+# discord mobile storage cdn
+@@||media.discordapp.net
+
+# personal website
+@@||astelpenkan.ml^
+
+# personal website
+@@||astelpenkan.cf^
+
+# mastodon instance
+@@||pegelinux.top^
+
+# personal website
+@@||joshuapack.pw
+
+# matrix instance
+@@||dmatrix.duckdns.org^
+
+# matrix instance
+@@||talkie.cf^
+
+# self-hosted services + fediverse
+@@||adsh.no^
+
+# self-hosted services
+@@||metatron.ooo^
+
+# self-hosted services
+@@||radtke.pw^
+
+# personal website + self-hosted services
+@@||erb.pw^
+
+# laboratory company website
+@@||electronicplanet.xyz^
+
+# github pages
+@@||github.io^
+
+# moebius shape website
+@@||moebius.ucoz.com
+
+# personal website
+@@||mousenoises.ml
+
+# anti-ddos service end-user checker page
+@@||check.ddos-guard.net
+
+# amazon s3 storage
+@@||eu-irl-00001.s3.dualstack.eu-west-1.amazonaws.com
+
+# main youtube website
+@@||www.youtube.com
+
+# commerical chat software website + matrix instance
+@@||beeper.com^
+
+# community + company + self-hosted services
+@@||keanu.im^
+
+# google time ntp
+@@||time.google.com
+
+# amazon s3 storage
+@@||s3-us-west-2.amazonaws.com
+
+# self-hosted services
+@@||shrug.pw^
+
+# matrix instance
+@@||bolapara.mywire.org^
+
+# gaming-related modding website
+@@||plutonium.pw^
+
+# personal website + self-hosted services
+@@||ayanami.cf^
+
+# dot-ml domain name registrar
+@@||point.ml^
+
+# self-hosted services + community
+@@||owo.monster^
+
+# mastodon instance
+@@||social.telemetrydeck.com^
+
+# mastodon instance (fediverse)
+@@||lostmy.pw^
+
+# root zone server
+@@||pw
+
+# enterprise email sending service (russia)
+@@||mail.sendsay.ru
+
+# enterprise email sending service (russia)
+@@||sendsay.ru
+
+# pixelfed instance
+@@||pixel.bluemedia.dev
+
+# transactional emails for mailchimp
+@@||mandrillapp.com
+
+# personal website
+@@||snowflai.ml
+
+# censys ipv4 search
+@@||censys-scanner.com^
+
+# itmo university some kind of service
+@@||la.itmo.su^
+
+# datadog end user monitoring
+@@||datadoghq-browser-agent.com^
+
+# datadog end user monitoring
+@@||browser-intake-datadoghq.com^
+
+# personal blog (website) + self-hosted services
+@@||mirv.top^
+
+# international festival website
+@@||internationalmobilefilmfestival.com^
+
+# enterprise email sending service
+@@||sendgrid.net^
+
+# personal blog
+@@||zzncx.top^
+
+# misskey instance
+@@||pasta.ga^
+
+# enterprise email sending service
+@@||sendpulse.com
+
+# personal website
+@@||peculiar.monster^
+
+# self-hosted services
+@@||bascht.space^
+
+# musician + community
+@@||guildofscientifictroubadours.com^
+
+# google mail
+@@||googlemail.com^
+
+# enterprise mail newsletter service
+@@||unisender.com
+
+# enterprise mail analytics smtp server
+@@||smtp-in.getresponse.com
+
+# enterprise mail analytics main domain
+@@||getresponse.com
+
+# main itmo university website
+@@||itmo.ru
+
+# google translate api
+@@||translate.google.com
+
+# personal blog (security and various)
+@@||gru.gq^
+
+# plausible analytics main company website
+@@||plausible.io
+
+# personal website
+@@||misk.cf^
+
+# personal website
+@@||gema.monster^
+
+# burger king (russia)
+@@||burgerking.ru
+
+# weird therapy consultation website
+@@||counsellinginnorthumberland.com
+
+# personal website
+@@||aznas.ml^
+
+# personal website
+@@||maigol.ml^
+
+# object storage by digital ocean
+@@||sfo3.digitaloceanspaces.com
+
+# object storage for a fediverse instance
+@@||genserver-social.sfo3.digitaloceanspaces.com
+
+# non-profit company blog
+@@||blog.codeberg.org
+
+# peertube instance
+@@||cliptube.org
+
+# community + fediverse and self-hosted services
+@@||artemai.art^

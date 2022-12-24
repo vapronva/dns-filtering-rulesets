@@ -27,3 +27,6 @@
 
 # sbermegamarket sentry analytics
 ||sentry-customers.megamarket.tech^
+
+# appwrite analytics and telemetry
+growth.appwrite.io
