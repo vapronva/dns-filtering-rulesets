@@ -676,9 +676,6 @@
 # mastodon instance (fediverse)
 @@||lostmy.pw^
 
-# root zone server
-@@||pw
-
 # enterprise email sending service (russia)
 @@||mail.sendsay.ru
 
@@ -789,3 +786,12 @@
 
 # community + fediverse and self-hosted services
 @@||artemai.art^
+
+# test domain
+@@||test.com
+
+# community + blog + non-profit company
+@@||tia-international-photography.com^
+
+# link shortener (widely used by companies)
+@@||onelink.me^
