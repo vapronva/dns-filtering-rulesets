@@ -1,3 +1,6 @@
+# personal website
+@@||vapronva.pw^$important,denyallow=analytics.vapronva.pw
+
 # scaleway hosting
 @@||scw.cloud^
 
