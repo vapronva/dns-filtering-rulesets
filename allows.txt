@@ -1,5 +1,5 @@
 # personal website
-@@||vapronva.pw^
+@@||vapronva.pw^~analytics.vapronva.pw
 
 # scaleway hosting
 @@||scw.cloud^
