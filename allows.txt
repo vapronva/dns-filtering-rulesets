@@ -286,9 +286,6 @@
 # personal website
 @@||hxvy0.gq^
 
-# company website (nonprofit)
-@@||futursoft.gq^
-
 # social network (russian)
 @@||vk.com^
 
@@ -312,9 +309,6 @@
 
 # analytics service
 @@||datadoghq.eu^
-
-# personal website + self-hosted services
-@@||alid.pw^
 
 # self-hosted services + community
 @@||beepboop.ga^
@@ -696,12 +690,6 @@
 
 # itmo university some kind of service
 @@||la.itmo.su^
-
-# datadog end user monitoring
-@@||datadoghq-browser-agent.com^
-
-# datadog end user monitoring
-@@||browser-intake-datadoghq.com^
 
 # personal blog (website) + self-hosted services
 @@||mirv.top^

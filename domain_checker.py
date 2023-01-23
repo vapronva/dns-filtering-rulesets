@@ -3,11 +3,12 @@ import dns.resolver
 import dns.rdtypes
 import httpx
 import subprocess
+import re
 
 
 INPUT_HOSTS_FILE: list[Path] = [Path("allows.txt"), Path("blocks.txt")]
 RESOLVER = dns.resolver.Resolver(configure=False)
-RESOLVER.nameservers = ["1.1.1.1"]
+RESOLVER.nameservers = ["https://dns.quad9.net/dns-query"]
 
 
 def get_domains_from_file(file: Path) -> list[str]:
@@ -22,6 +23,7 @@ def get_domains_from_file(file: Path) -> list[str]:
                 .replace("^", "")
                 .replace("\n", "")
             )
+            line = re.sub(r"\$.*$", "", line)
             domains.append(line)
     return domains
 
