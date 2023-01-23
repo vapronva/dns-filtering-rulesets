@@ -22,44 +22,42 @@ The lists are updated on demand — as any discrepancies or issues are encounter
 | Perflyst and Dandelion Sprout's Smart-TV Blocklist | ✅ | 256 | [raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt) |
 | Game Console Adblock List | ✅ | 62 | [raw.githubusercontent.com/DandelionSprout/adfilt/master/GameConsoleAdblockList.txt](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GameConsoleAdblockList.txt) |
 | Peter Lowe's List | ✅ | 3668 | [pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext](https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext) |
-| Dandelion Sprout's Anti-Malware List | ❌ | 0 | [raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt) |
+| Dandelion Sprout's Anti-Malware List | ✅ | 14314 | [raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt) |
 | NoCoin Filter List | ✅ | 720 | [raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt](https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt) |
 | Scam Blocklist by DurableNapkin | ✅ | 377 | [raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt](https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt) |
 | The Big List of Hacked Malware Web Sites | ✅ | 13822 | [raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts](https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts) |
-| Online Malicious URL Blocklist | ✅ | 4729 | [curben.gitlab.io/malware-filter/urlhaus-filter-agh-online.txt](https://curben.gitlab.io/malware-filter/urlhaus-filter-agh-online.txt) |
+| Online Malicious URL Blocklist | ✅ | 83323 | [malware-filter.pages.dev/urlhaus-filter-agh.txt](https://malware-filter.pages.dev/urlhaus-filter-agh.txt) |
 | WindowsSpyBlocker - Hosts spy rules | ✅ | 347 | [raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt](https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt) |
 | OISD Full | ✅ | 351996 | [abp.oisd.nl/](https://abp.oisd.nl/) |
 | KOR: YousList | ✅ | 563 | [raw.githubusercontent.com/yous/YousList/master/hosts.txt](https://raw.githubusercontent.com/yous/YousList/master/hosts.txt) |
 | POL: Polish filters for Pi hole | ✅ | 1940 | [raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hostfile.txt](https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hostfile.txt) |
-| VNM: ABPVN List | ❌ | 0 | [abpvn.com/android/abpvn.txt](https://abpvn.com/android/abpvn.txt) |
 | SWE: Frellwit's Swedish Hosts File | ✅ | 986 | [raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt](https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt) |
 | NOR: Dandelion Sprouts nordiske filtre | ✅ | 498 | [raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersAdGuardHome.txt](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersAdGuardHome.txt) |
 | CHN: anti-AD | ✅ | 56003 | [anti-ad.net/easylist.txt](https://anti-ad.net/easylist.txt) |
-| IRN: Unwanted Iranian domains | ❌ | 0 | [raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/unwanted-iranian.txt](https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/unwanted-iranian.txt) |
 | IDN: ABPindo | ✅ | 4767 | [raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt) |
 | ITA: Filtri-DNS | ✅ | 358 | [filtri-dns.ga/filtri.txt](https://filtri-dns.ga/filtri.txt) |
 | MKD: Macedonian Pi-hole Blocklist | ✅ | 198 | [raw.githubusercontent.com/cchevy/macedonian-pi-hole-blocklist/master/hosts.txt](https://raw.githubusercontent.com/cchevy/macedonian-pi-hole-blocklist/master/hosts.txt) |
 | NLD: Easylist | ✅ | 1086 | [easylist-downloads.adblockplus.org/easylistdutch.txt](https://easylist-downloads.adblockplus.org/easylistdutch.txt) |
 | OISD Blocklist Basic | ✅ | 65337 | [abp.oisd.nl/basic/](https://abp.oisd.nl/basic/) |
-| NextDNS's Privacy — Affiliates and Tracking | ✅ | 454 | [raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains](https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains) |
+| NextDNS's Privacy — Affiliates and Tracking | ✅ | 467 | [raw.githubusercontent.com/nextdns/click-tracking-domains/main/domains](https://raw.githubusercontent.com/nextdns/click-tracking-domains/main/domains) |
 | NextDNS's Security — CNAME Cloaking | ✅ | 35 | [raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains](https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains) |
-| NextDNS's Privacy — Alexa Devices | ✅ | 3 | [raw.githubusercontent.com/nextdns/metadata/master/privacy/native/alexa](https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/alexa) |
-| NextDNS's Privacy — Apple Devices | ✅ | 10 | [raw.githubusercontent.com/nextdns/metadata/master/privacy/native/apple](https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/apple) |
-| NextDNS's Privacy — Huawei Devices | ✅ | 8 | [raw.githubusercontent.com/nextdns/metadata/master/privacy/native/huawei](https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/huawei) |
-| NextDNS's Privacy — Roku Devices | ✅ | 1 | [raw.githubusercontent.com/nextdns/metadata/master/privacy/native/roku](https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/roku) |
-| NextDNS's Privacy — Samsung Devices | ✅ | 4 | [raw.githubusercontent.com/nextdns/metadata/master/privacy/native/samsung](https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/samsung) |
-| NextDNS's Privacy — Sonos Devices | ✅ | 2 | [raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos](https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos) |
-| NextDNS's Privacy — Microsoft Devices | ✅ | 24 | [raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows](https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows) |
-| NextDNS's Privacy — Xiaomi Devices | ✅ | 9 | [raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi](https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi) |
+| NextDNS's Privacy — Alexa Devices | ✅ | 3 | [raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/alexa](https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/alexa) |
+| NextDNS's Privacy — Apple Devices | ✅ | 19 | [raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/apple](https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/apple) |
+| NextDNS's Privacy — Huawei Devices | ✅ | 8 | [raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/huawei](https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/huawei) |
+| NextDNS's Privacy — Roku Devices | ✅ | 1 | [raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/roku](https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/roku) |
+| NextDNS's Privacy — Samsung Devices | ✅ | 4 | [raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/samsung](https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/samsung) |
+| NextDNS's Privacy — Sonos Devices | ✅ | 2 | [raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/sonos](https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/sonos) |
+| NextDNS's Privacy — Microsoft Devices | ✅ | 24 | [raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/windows](https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/windows) |
+| NextDNS's Privacy — Xiaomi Devices | ✅ | 9 | [raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/xiaomi](https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/xiaomi) |
 | CapedCrusader42's iFunny Blocklist | ✅ | 93 | [raw.githubusercontent.com/CapedCrusader42/IfunnyAdBlocker/main/IfunnyAdblock](https://raw.githubusercontent.com/CapedCrusader42/IfunnyAdBlocker/main/IfunnyAdblock) |
 | badmojr's 1hosts (Pro) | ❌ | 0 | [badmojr.gitlab.io/1hosts/Pro/adblock.txt](https://badmojr.gitlab.io/1hosts/Pro/adblock.txt) |
 | CHN: jdlingyu's Ad Wars | ✅ | 1678 | [raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts](https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts) |
 | AdAway List | ✅ | 7357 | [raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt](https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt) |
 | 2o7 Network Tracking Blocklist | ✅ | 2030 | [raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts) |
-| AdGuard Base Filter | ✅ | 88734 | [filters.adtidy.org/extension/chromium/filters/2.txt](https://filters.adtidy.org/extension/chromium/filters/2.txt) |
+| AdGuard Base Filter | ✅ | 88738 | [filters.adtidy.org/extension/chromium/filters/2.txt](https://filters.adtidy.org/extension/chromium/filters/2.txt) |
 | AdGuard Mobile Ads Filter | ✅ | 6429 | [filters.adtidy.org/extension/chromium/filters/11.txt](https://filters.adtidy.org/extension/chromium/filters/11.txt) |
 | AdGuard Russian Filter | ✅ | 23270 | [filters.adtidy.org/extension/chromium/filters/1.txt](https://filters.adtidy.org/extension/chromium/filters/1.txt) |
-| AdGuard Tracking Protection Filter | ✅ | 41176 | [filters.adtidy.org/extension/chromium/filters/3.txt](https://filters.adtidy.org/extension/chromium/filters/3.txt) |
+| AdGuard Tracking Protection Filter | ✅ | 41178 | [filters.adtidy.org/extension/chromium/filters/3.txt](https://filters.adtidy.org/extension/chromium/filters/3.txt) |
 | Yhonay's Anti Pop-Up Ads | ✅ | 755 | [raw.githubusercontent.com/Yhonay/antipopads/master/hosts](https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts) |
 | Anudeep's Blacklist for Ads and Tracker | ✅ | 42536 | [raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt](https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt) |
 | paulgb's BarbBlock | ✅ | 550 | [raw.githubusercontent.com/paulgb/BarbBlock/master/blacklists/domain-list.txt](https://raw.githubusercontent.com/paulgb/BarbBlock/master/blacklists/domain-list.txt) |
@@ -70,16 +68,13 @@ The lists are updated on demand — as any discrepancies or issues are encounter
 | Disconnect (Malvertising) Blocklist | ✅ | 2736 | [s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt](https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt) |
 | Disconnect (Tracking) Blocklist | ✅ | 34 | [s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt](https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt) |
 | CHN: EasyList | ✅ | 20813 | [easylist-downloads.adblockplus.org/easylistchina.txt](https://easylist-downloads.adblockplus.org/easylistchina.txt) |
-| CZH: EasyList | ✅ | 518 | [raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt](https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt) |
+| CZH: EasyList | ✅ | 517 | [raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt](https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt) |
 | GRM: EasyList | ✅ | 4516 | [easylist.to/easylistgermany/easylistgermany.txt](https://easylist.to/easylistgermany/easylistgermany.txt) |
 | EasyList for Hebrew | ✅ | 1255 | [raw.githubusercontent.com/easylist/EasyListHebrew/master/EasyListHebrew.txt](https://raw.githubusercontent.com/easylist/EasyListHebrew/master/EasyListHebrew.txt) |
 | ITL: EasyList | ✅ | 9151 | [easylist-downloads.adblockplus.org/easylistitaly.txt](https://easylist-downloads.adblockplus.org/easylistitaly.txt) |
 | LTH: EasyList | ✅ | 1155 | [raw.githubusercontent.com/EasyList-Lithuania/easylist_lithuania/master/easylistlithuania.txt](https://raw.githubusercontent.com/EasyList-Lithuania/easylist_lithuania/master/easylistlithuania.txt) |
 | EasyList — International | ❌ | 0 | [easylist.to/easylist/easylist.txt](https://easylist.to/easylist/easylist.txt) |
 | EasyPrivacy | ✅ | 31429 | [easylist.to/easylist/easyprivacy.txt](https://easylist.to/easylist/easyprivacy.txt) |
-| Energized Ultimate List | ❌ | 0 | [block.energized.pro/ultimate/formats/filter](https://block.energized.pro/ultimate/formats/filter) |
-| Energized Xtreme Extension List | ❌ | 0 | [block.energized.pro/extensions/xtreme/formats/filter](https://block.energized.pro/extensions/xtreme/formats/filter) |
-| Energized Regional Extension List | ❌ | 0 | [block.energized.pro/extensions/regional/formats/filter](https://block.energized.pro/extensions/regional/formats/filter) |
 | Fanboy's Annoyance List | ✅ | 22881 | [easylist.to/easylist/fanboy-annoyance.txt](https://easylist.to/easylist/fanboy-annoyance.txt) |
 | Fanboy's Enhanced Tracking List | ✅ | 2919 | [fanboy.co.nz/enhancedstats.txt](https://fanboy.co.nz/enhancedstats.txt) |
 | FNS: Easylist Addition | ✅ | 1372 | [raw.githubusercontent.com/finnish-easylist-addition/finnish-easylist-addition/master/Finland_adb.txt](https://raw.githubusercontent.com/finnish-easylist-addition/finnish-easylist-addition/master/Finland_adb.txt) |
@@ -105,7 +100,7 @@ The lists are updated on demand — as any discrepancies or issues are encounter
 | Shalla's Tracking Blacklist | ✅ | 1491 | [raw.githubusercontent.com/cbuijs/shallalist/master/tracker/domains](https://raw.githubusercontent.com/cbuijs/shallalist/master/tracker/domains) |
 | someonewhocares.org (Dan Pollock) | ✅ | 11408 | [someonewhocares.org/hosts/hosts](https://someonewhocares.org/hosts/hosts) |
 | UncheckyAds List | ✅ | 9 | [raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts) |
-| NextDNS' Security — URL Shorteners | ✅ | 377 | [raw.githubusercontent.com/nextdns/metadata/master/security/url-shorteners](https://raw.githubusercontent.com/nextdns/metadata/master/security/url-shorteners) |
+| PeterDaveHello — URL Shorteners | ✅ | 1026 | [raw.githubusercontent.com/PeterDaveHello/url-shorteners/master/list](https://raw.githubusercontent.com/PeterDaveHello/url-shorteners/master/list) |
 | PLS: FiltersTeam's KADhosts | ✅ | 93944 | [raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt](https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt) |
 | FadeMind's Extras | ✅ | 57 | [raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts) |
 | FireBog's AdGuard | ✅ | 47125 | [v.firebog.net/hosts/AdguardDNS.txt](https://v.firebog.net/hosts/AdguardDNS.txt) |
@@ -125,22 +120,25 @@ The lists are updated on demand — as any discrepancies or issues are encounter
 | quidsup's NoTrack | ✅ | 924 | [gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt](https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt) |
 | Spam404's List | ✅ | 8146 | [raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt](https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt) |
 | Te-k's Stalkerware List | ✅ | 837 | [raw.githubusercontent.com/Te-k/stalkerware-indicators/master/generated/hosts](https://raw.githubusercontent.com/Te-k/stalkerware-indicators/master/generated/hosts) |
-| Abuse.ch List | ✅ | 569 | [urlhaus.abuse.ch/downloads/hostfile/](https://urlhaus.abuse.ch/downloads/hostfile/) |
-| zerodot1's Coin Blocker Lists | ✅ | 3496 | [zerodot1.gitlab.io/CoinBlockerLists/hosts_browser](https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser) |
+| Abuse.ch List | ✅ | 575 | [urlhaus.abuse.ch/downloads/hostfile/](https://urlhaus.abuse.ch/downloads/hostfile/) |
+| zerodot1's Coin Blocker Lists | ✅ | 107760 | [raw.githubusercontent.com/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists/master/output/domains.list/hosts/ACTIVE/hosts](https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists/master/output/domains.list/hosts/ACTIVE/hosts) |
 | anudeepND's CoinMiners Blocklist | ✅ | 5939 | [raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt](https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt) |
 | anudeepND's Facebook Blocker | ❌ | 0 | [raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt](https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt) |
 | vapronva's Blocklist | ✅ | 11 | [raw.githubusercontent.com/vapronva/hosts_dgrd-config_files/main/blocks.txt](https://raw.githubusercontent.com/vapronva/hosts_dgrd-config_files/main/blocks.txt) |
-| Energized Spark List | ✅ | 36 | [block.energized.pro/spark/formats/filter](https://block.energized.pro/spark/formats/filter) |
 | The NoTracking blocklist | ✅ | 390862 | [raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt) |
 | Stalkerware Indicators List | ✅ | 837 | [raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts](https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts) |
 | Phishing Websites (PhishTank, OpenPhish) | ✅ | 11346 | [curbengh.github.io/malware-filter/phishing-filter-ag.txt](https://curbengh.github.io/malware-filter/phishing-filter-ag.txt) |
 | 1Hosts (Lite) | ✅ | 57879 | [o0.pages.dev/Lite/adblock.txt](https://o0.pages.dev/Lite/adblock.txt) |
 | URLHaus Filter | ✅ | 87534 | [curbengh.github.io/malware-filter/urlhaus-filter-ag.txt](https://curbengh.github.io/malware-filter/urlhaus-filter-ag.txt) |
+| Stalkerware Indicators List | ✅ | 847 | [adguardteam.github.io/HostlistsRegistry/assets/filter_31.txt](https://adguardteam.github.io/HostlistsRegistry/assets/filter_31.txt) |
+| Scam Blocklist by DurableNapkin | ✅ | 388 | [adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt](https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt) |
+| HaGeZi Personal Black & White | ✅ | 20150 | [adguardteam.github.io/HostlistsRegistry/assets/filter_34.txt](https://adguardteam.github.io/HostlistsRegistry/assets/filter_34.txt) |
+| Steven Black's List | ✅ | 171833 | [adguardteam.github.io/HostlistsRegistry/assets/filter_33.txt](https://adguardteam.github.io/HostlistsRegistry/assets/filter_33.txt) |
 
 ### Whitelists
 
 | **Name** | **Enabled** | **Rules Count** | **URL** |
 | --- | --- | --- | --- |
 | anudeepND's Whitelist | ✅ | 191 | [raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt](https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt) |
-| vapronva's Allowlist | ✅ | 266 | [gitlab.vapronva.pw/vapronva/hosts_dgrd-config_files/-/raw/main/allows.txt](https://gitlab.vapronva.pw/vapronva/hosts_dgrd-config_files/-/raw/main/allows.txt) |
+| vapronva's Allowlist | ✅ | 262 | [gitlab.vapronva.pw/vapronva/hosts_dgrd-config_files/-/raw/main/allows.txt](https://gitlab.vapronva.pw/vapronva/hosts_dgrd-config_files/-/raw/main/allows.txt) |
 
