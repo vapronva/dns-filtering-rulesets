@@ -13,9 +13,6 @@
 # gcorelabs hosting (api)
 @@||core.pw^
 
-# bittorrent tracker
-@@||torland.ga^
-
 # personal website and self-hosted services
 @@||elven.pw^
 
@@ -24,9 +21,6 @@
 
 # mastodon instance (fediverse)
 @@||mastodon.top^
-
-# personal website and self-hosted services
-@@||sadium.ml^
 
 # personal website
 @@||arcades.agency^
@@ -64,12 +58,6 @@
 # pleroma instance (fediverse)
 @@||ryona.agency^
 
-# bittorrent tracker
-@@||tr.abirxo.cf^
-
-# bittorrent tracker
-@@||tr.abiir.top^
-
 # mastodon instance (fediverse)
 @@||mastodon.cf^
 
@@ -81,9 +69,6 @@
 
 # ip-address intelligence api
 @@||ipinfo.io^
-
-# personal website (blog)
-@@||darkshark9k.ml^
 
 # personal website + self-hosted services
 @@||sakamoto.gq^
@@ -253,9 +238,6 @@
 # mastodon instance (fediverse)
 @@||nerdculture.de^
 
-# personal website (blog)
-@@||tolstoevsky.ml^
-
 # personal website + community + self-hosted services
 @@||antarctic.ga^
 
@@ -322,9 +304,6 @@
 # images hosting by yandex (russian)
 @@||avatars.mds.yandex.net
 
-# mastodon instance
-@@||skunk.agency^
-
 # activity relay for fediverse
 @@||fedi.tools^
 
@@ -336,9 +315,6 @@
 
 # contabo hosting services [storage]
 @@||contabostorage.com^
-
-# self-hosted services + personal thingies
-@@||greentrawler.space^
 
 # consultancy company website
 @@||cocoate.com^
@@ -363,9 +339,6 @@
 
 # spotify link sharing
 @@||open.spotify.com
-
-# personal website + self-hosted services
-@@||atico.ga^
 
 # freenas / truenas usage analytics
 @@||usage.freenas.org
@@ -400,9 +373,6 @@
 # fediverse-related instance
 @@||counter.social^
 
-# personal website
-@@||spacy.ga^
-
 # apple appstore search
 @@||amp-api-search-edge.apps.apple.com^
 
@@ -436,9 +406,6 @@
 # mastodon instance (fediverse)
 @@||mashiro.top^
 
-# mastodon instance (fediverse)
-@@||fores.top^
-
 # personal website
 @@||bigrat.monster^
 
@@ -456,9 +423,6 @@
 
 # oss software website (nonprofit)
 @@||thedesk.top^
-
-# personal website + self-hosted services
-@@||weibo.sbs^
 
 # personal website + self-hosted services
 @@||zotan.pw^
@@ -512,9 +476,6 @@
 @@||sabamirin7820.ml^
 
 # personal website
-@@||mikolajkazmierczak.ml^
-
-# personal website
 @@||yottabyte.cf^
 
 # personal website
@@ -522,9 +483,6 @@
 
 # personal website + self-hosted services
 @@||dmgd.monster^
-
-# personal website + self-hosted services
-@@||gianmarco.ga^
 
 # community + self-hosted services
 @@||opendesktop.org^
@@ -585,9 +543,6 @@
 
 # personal website
 @@||astelpenkan.ml^
-
-# personal website
-@@||astelpenkan.cf^
 
 # mastodon instance
 @@||pegelinux.top^
@@ -655,9 +610,6 @@
 # gaming-related modding website
 @@||plutonium.pw^
 
-# personal website + self-hosted services
-@@||ayanami.cf^
-
 # dot-ml domain name registrar
 @@||point.ml^
 
@@ -702,9 +654,6 @@
 
 # personal blog
 @@||zzncx.top^
-
-# misskey instance
-@@||pasta.ga^
 
 # enterprise email sending service
 @@||sendpulse.com
@@ -755,9 +704,6 @@
 @@||counsellinginnorthumberland.com
 
 # personal website
-@@||aznas.ml^
-
-# personal website
 @@||maigol.ml^
 
 # object storage by digital ocean
@@ -783,3 +729,261 @@
 
 # link shortener (widely used by companies)
 @@||onelink.me^
+
+# mastodon instance (fediverse)
+@@||pixel.kitchen^
+
+# nft company (:clown:)
+@@||opensea.io
+
+# pixelfed instance (fediverse)
+@@||pixel.fimidi.com
+
+# sentry deplpoyment downloads (non-tracking)
+@@||downloads.sentry-cdn.com
+
+# cdp platform (tracking, email sending)
+@@||esputnik.com
+
+# signal messaging app
+@@||api.onesignal.com^
+
+# mailing ip reputation service
+@@||spameatingmonkey.net^
+
+# fediverse instance + personal website
+@@||phoenix.monster^
+
+# roskomnadzor (russian agency)
+@@||rkn.gov.ru^
+
+# mastodon instance (fediverse)
+@@||mastodon.uno^
+
+# peertube instance (fediverse)
+@@||peertube.uno^
+
+# personal website
+@@||michaelpuckett.engineer^
+
+# personal website
+@@||darnell.ooo^
+
+# personal website
+@@||iliana.fyi^
+
+# apple link shortener
+@@||apple.co^
+
+# newrelic landing website (observability platform)
+@@||newrelic.com
+
+# newrelic - email delivery
+@@||_dmarc.newrelic.com
+
+# newrelic - email delivery
+@@||_domainkey.newrelic.com
+
+# mail ip reputation service
+@@||uribl.com^
+
+# mastodon instance (fediverse)
+@@||infosec.exchange^
+
+# personal website + mastodon instance (fediverse)
+@@||fangluo.top^
+
+# personal website
+@@||prgm.x0.com
+
+# gravatar - avatar service
+@@||www.gravatar.com
+
+# artist personal website
+@@||sewerslvt.com
+
+# russian postal service - javascript hosting
+@@||widget.pochta.ru
+
+# yandex domain
+@@||yandex.st
+
+# mastodon instance (fediverse)
+@@||mstdn.cf^
+
+# personal website
+@@||hiden.pw^
+
+# personal website
+@@||avarnex.top^
+
+# shodan scanning service
+@@||census.shodan.io^
+
+# livechat widget
+@@||livechatinc.com^
+
+# ip reputation service
+@@||mailspike.net^
+
+# ip reputation service
+@@||spamhaus.org^
+
+# sentry documentation
+@@||docs.sentry.io^
+
+# microsoft link shortener
+@@||aka.ms^
+
+# discord link shortener
+@@||discord.gg^
+
+# ip reputation service
+@@||sorbs.net^
+
+# personal website
+@@||lupine.agency^
+
+# mail ip reputation service
+@@||junkemailfilter.com^
+
+# mastodon instance (fediverse)
+@@||fediverse.pw^
+
+# personal website
+@@||jaiden.pw^
+
+# mastodon instance (fediverse)
+@@||istoleyour.pw^
+
+# mastodon instance (fediverse)
+@@||woolly.monster^
+
+# self-hosted services + fediverse
+@@||owo.justdied.com^
+
+# mastodon instance (fediverse)
+@@||iyasaretai.pw^
+
+# student-driven cloud files sharing
+@@||picloud.pw^
+
+# public stun server
+@@||stun.stunprotocol.org^
+
+# pleroma instance (fediverse)
+@@||sogga.top^
+
+# midjourney link shortener
+@@||s.mj.run
+
+# community + self-hosted services + fediverse
+@@||catposting.agency^
+
+# personal website + self-hosted services + fediverse
+@@||nekoea.red^
+
+# nextcloud push notifications
+@@||push-notifications.nextcloud.com^
+
+# aws random domain
+@@||pages.awscloud.com
+
+# umami analytics landing page
+@@||umami.is
+
+# og vk domain (russian social network)
+@@||vkontakte.ru
+
+# genius link shortener (tracking + analytics)
+@@||geni.us
+
+# link shortener (tracking)
+@@||bit.ly
+
+# temporary file sharing service
+@@||litter.catbox.moe
+
+# shrimp live camera
+@@||shrimpcam.pw^
+
+# personal website
+@@||und.ooo^
+
+# mastodon instance (fediverse)
+@@||friendsofdesoto.social^
+
+# backblaze b2 object storage
+@@||s3.us-east-005.backblazeb2.com^
+
+# joke website
+@@||frontendfriendly.xyz^
+
+# minecraft accounts seller
+@@||thealtening.com^
+
+# personal website
+@@||jonpark.co.uk^
+
+# forms collecting service - javascript hosting
+@@||js.hsforms.net
+
+# personal website
+@@||angus.pw^
+
+# email delivery service - cdp platform
+@@||e-eu.customeriomail.com
+
+# email delivery service - contabo hosting
+@@||_dmarc.contaboserver.net
+
+# self-hosted services
+@@||vmi1220292.contaboserver.net
+
+# email delivery service - cdp platform
+@@||_spf.mlsend.com
+
+# email delivery service - cdp platform
+@@||send-box.ru
+
+# personal website + self-hosted services instance (fediverse)
+@@||sebsite.pw^
+
+# personal website
+@@||erion.cf^
+
+# personal website
+@@||theorangeone.net^
+
+# personal website
+@@||seedy.gq^
+
+# self-hosted services
+@@||epizy.com^
+
+# email delivery service + customer analytics
+@@||emarsys.net
+
+# minetest
+@@||minetest.net^
+
+# fediverse instance
+@@||xscape.top^
+
+# tldr for oss licenses
+@@||tldrlegal.com
+
+# self-hosted services + fediverse
+@@||kabukimono.top^
+
+# mail delivery service - unknown (russia)
+@@||mail.p.ecnl.ru
+
+# self-hosted services
+@@||agapimou.top^
+
+# email delivery service - qualtrics (xm customer platform)
+@@||qemailserver.com^
+
+# "are we omemo yet?"
+@@||omemo.top^
