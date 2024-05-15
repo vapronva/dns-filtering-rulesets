@@ -1,9 +1,10 @@
-from pathlib import Path
-import dns.resolver
-import dns.rdtypes
-import httpx
-import subprocess
 import re
+import subprocess
+from pathlib import Path
+
+import dns.rdtypes
+import dns.resolver
+import httpx
 
 
 INPUT_HOSTS_FILE: list[Path] = [Path("allows.txt"), Path("blocks.txt")]
@@ -12,7 +13,7 @@ RESOLVER.nameservers = ["https://dns.quad9.net/dns-query"]
 
 
 def get_domains_from_file(file: Path) -> list[str]:
-    with open(file, "r") as f:
+    with open(file) as f:
         lines = f.readlines()
     domains = []
     for line in lines:
@@ -34,14 +35,18 @@ def get_a_record(domain: str) -> list[str]:
 
 
 def ping_ip_address(ip_address: str) -> bool:
-    result = subprocess.run(["ping", "-c", "1", ip_address], capture_output=True)
+    result = subprocess.run(
+        ["ping", "-c", "1", ip_address],
+        capture_output=True,
+        check=False,
+    )
     return result.returncode == 0
 
 
 def get_http_status_code(domain: str) -> int:
     try:
         response = httpx.get(
-            domain if domain.startswith("http") else f"http://{domain}"
+            domain if domain.startswith("http") else f"http://{domain}",
         )
         return response.status_code
     except httpx.ConnectError:
@@ -57,7 +62,7 @@ def get_http_status_code(domain: str) -> int:
 def get_https_status_code(domain: str) -> int:
     try:
         response = httpx.get(
-            domain if domain.startswith("http") else f"https://{domain}"
+            domain if domain.startswith("http") else f"https://{domain}",
         )
         return response.status_code
     except httpx.ConnectError:
@@ -84,11 +89,7 @@ def check_domain(domain: str) -> tuple[bool, bool, bool]:
     try:
         ip_addresses = get_a_record(domain)
         resolveable = True
-    except dns.resolver.NXDOMAIN:
-        resolveable = False
-    except dns.resolver.NoAnswer:
-        resolveable = False
-    except dns.resolver.NoNameservers:
+    except (dns.resolver.NXDOMAIN, dns.resolver.NoAnswer, dns.resolver.NoNameservers):
         resolveable = False
     except Exception as e:
         print(e)
@@ -111,7 +112,7 @@ def main():
         for domain in domains:
             resolveable, pingable, reachable = check_domain(domain)
             print(f"{domain}: {resolveable}, {pingable}, {reachable}") if not (
-                resolveable and pingable and reachable
+                resolveable and (pingable or reachable)
             ) else None
 
 
