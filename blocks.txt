@@ -19,14 +19,23 @@
 # uptimeroboot stats
 ||stats.uptimerobot.com
 
-# yandex's link shortener
-||clck.ru^
-
 # itmo university analytics
 ||sentry.itmo.su
 
 # sbermegamarket sentry analytics
-||sentry-customers.megamarket.tech^
+||sentry-customers.megamarket.tech
 
 # appwrite analytics and telemetry
-growth.appwrite.io
+||growth.appwrite.io
+
+# mozilla telemetry
+||incoming.telemetry.mozilla.org
+
+# video watch analytics 
+||api.imotech.video
+
+# casp.ru sentry client analytics
+||sentry-*.casp.ru
+
+# mobile ads and analytics
+||cdn.adsgainer.com

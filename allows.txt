@@ -1,11 +1,11 @@
-# personal website
+# personal website + self-hosted services
 @@||vapronva.pw^$important,denyallow=analytics.vapronva.pw
+@@||vprw.ru^
+@@||cmld.ru^
+@@||cumlord.ru^
 
 # scaleway hosting
 @@||scw.cloud^
-
-# bittorrent tracker
-@@||btracker.top^
 
 # gcorelabs hosting
 @@||gcorelabs.com^
@@ -13,491 +13,62 @@
 # gcorelabs hosting (api)
 @@||core.pw^
 
-# personal website and self-hosted services
-@@||elven.pw^
-
-# pleroma instance (fediverse)
-@@||lolison.top^
-
-# mastodon instance (fediverse)
-@@||mastodon.top^
-
-# personal website
-@@||arcades.agency^
-
-# personal website
-@@||wilmhit.pw^
-
-# mastodon instance (fediverse)
-@@||redroo.ml^
-
-# personal website (blog)
-@@||adol.pw^
-
 # self-hosted services and community
 @@||securetown.top^
 
-# mastodon instance (fediverse)
-@@||c.im^
-
-# personal website
-@@||gh0.pw^
-
-# mastodon instance (fediverse)
-@@||xerg.ga^
-
-# personal website (blog) + self-hosted services
-@@||syui.cf^
-
-# friendica instance (fediverse)
-@@||loma.ml^
-
-# personal website
-@@||michci.ooo^
-
-# pleroma instance (fediverse)
-@@||ryona.agency^
-
-# mastodon instance (fediverse)
-@@||mastodon.cf^
-
-# mass media website
-@@||theregister.com^
-
-# mastodon instance (fediverse)
-@@||101010.pl^
-
-# ip-address intelligence api
-@@||ipinfo.io^
-
-# personal website + self-hosted services
-@@||sakamoto.gq^
-
 # joke website
-@@||n910616h.beget.tech^
-
-# personal website + self-hosted services
-@@||0x10a9b.pw^
-
-# personal website
-@@||nilesh.trivedi.pw^
-
-# joke website
-@@||thats-a-nice-argument-unfortunately.com^
-
-# personal website + self-hosted services
-@@||tchncs.de^
+@@||n910616h.beget.tech
 
 # personal website (blog)
 @@||ericaftereric.top^
 
-# ip-address intelligence api
-@@||api.ipify.org
-
-# git hosting and community
-@@||codeberg.com^
-
-# content agency
-@@||mediawrite.agency^
-
-# personal website
-@@||gappjust.ml^
-
-# mastodon instance (fediverse)
-@@||indieweb.social^
-
-# logos and icons assets
-@@||logo.clearbit.com
-
-# bittorrent tracker
-@@||glotorrents.pw^
-
 # personal website (blog)
 @@||ofthe.top^
-
-# personal website (blog)
-@@||orenoaiba.ga^
-
-# log management solutions
-@@||graylog.com^
-
-# telegram short link
-@@||t.me^
-
-# bittorrent tracker
-@@||tracker.opentrackr.org
-
-# personal website (blog)
-@@||metasyn.pw^
-
-# fediverse community and services
-@@||fedi.agency^
-
-# wasabi cloud storage
-@@||wasabisys.com^
-
-# mastodon instance (fediverse) and other self-hosted services
-@@||asonix.dog^
 
 # google static fonts
 @@||fonts.googleapis.com
 
-# joke website
-@@||how-i-experience-web-today.com^
-
-# dropbox cloud storage
-@@||drop.com^
-
-# maxmind ip-address intelligence updates
-@@||updates.maxmind.com
-
-# maxmind ip-address intelligence donwloads
-@@||download.maxmind.com
-
-# apple appstore api
-@@||amp-api-edge.apps.apple.com
-
-# e-mail relay service
-@@||simplelogin.io^
-
-# rutube video hosting (russian)
-@@||rutube.ru^
-
 # company [oss] blog
 @@||blog.simpleanalytics.com
-
-# useful website
-@@||thatoneprivacysite.xyz^
-
-# edge security company (russian)
-@@||ngenix.net^
-
-# video management service company
-@@||zype.com^
-
-# mastodon instance (fediverse)
-@@||climatejustice.social^
-
-# random blog
-@@||glitterwillowforest.xyz^
-
-# self-hosted services (fediverse)
-@@||autonomous-zone.earth^
-
-# personal website + self-hosted services
-@@||jabbxi.de^
-
-# minecraft server + self-hosted services
-@@||minecraftanarquia.xyz^
-
-# community lookup service for roskomnadzor (russian)
-@@||reestr.rublacklist.net^
-
-# ip-address intelligence api
-@@||myip.wtf^
-
-# ip-address intelligence api
-@@||icanhazip.com^
-
-# photoprism photo management service
-@@||photoprism.app^
 
 # different intelligence tools for websites (api) (russian)
 @@||suggestions.dadata.ru
 
-# gopro company website
-@@||gopro.com^
-
-# xiaomi iot devices api
-@@||api.io.mi.com^
-
 # anime shop (russian)
 @@||fast-anime.ru^
-
-# soundcloud account api
-@@||secure.soundcloud.com
 
 # personal website (blog)
 @@||qwq2333.top^
 
-# personal website + self-hosted services
-@@||neonight.ga^
-
-# self-hosted services (fediverse)
-@@||yff.pw^
-
-# personal website
-@@||houl.ml^
-
-# mass media website (russian)
-@@||lenta.ru
-
-# epic games company
-@@||epicgames.com^
-
-# mastodon instance (fediverse)
-@@||nerdculture.de^
-
-# personal website + community + self-hosted services
-@@||antarctic.ga^
-
-# personal website (blog)
-@@||bemyak.ml^
-
-# personal website + self-hosted services
-@@||arzinfo.pw^
-
-# community + self-hosted services
-@@||wrasse.pw^
-
-# gravatar service (image hosting)
-@@||secure.gravatar.com
-
 # website (generator; nonprofit)
 @@||freeprivacypolicy.com^
-
-# github previews (images)
-@@||opengraph.githubassets.com
-
-# personal website
-@@||moth.monster^
-
-# personal website
-@@||cnx.gdn^
-
-# personal website
-@@||hxvy0.gq^
-
-# social network (russian)
-@@||vk.com^
-
-# social network (russian)
-@@||vk.me^
-
-# community and federative services
-@@||that.monster^
-
-# hosting services for self-hosted services
-@@||fedi.monster^
-
-# link aggregator (fediverse)
-@@||lemmygrad.ml^
 
 # analytics service
 @@||datadoghq.com^
 
-# simplelogin email relay service
-@@||simplelogin.co^
-
 # analytics service
 @@||datadoghq.eu^
-
-# self-hosted services + community
-@@||beepboop.ga^
-
-# yandex sso passport (russian)
-@@||sso.passport.yandex.ru^
-
-# documentation website
-@@||docs.plausible.io
-
-# images hosting by yandex (russian)
-@@||avatars.mds.yandex.net
-
-# activity relay for fediverse
-@@||fedi.tools^
 
 # nn smarthome api (chinese)
 @@||smartlook.cloud^
 
-# personal website + self-hosted services
-@@||pepegapepe.ga^
-
-# contabo hosting services [storage]
-@@||contabostorage.com^
-
-# consultancy company website
-@@||cocoate.com^
-
-# personal website + self-hosted services
-@@||trbexe.ml^
-
 # tinkoff bank email links (russian)
 @@||link.emails.tinkoff.ru
 
-# bunnycdn overall rule
+# bunnycdn
 @@||b-cdn.net^
-
-# intercom chat widget
-@@||js.intercomcdn.com
-
-# atlassian statuspage
-@@||statuspage.com^
-
-# cloudflare dns resolver
-@@||cloudflare-dns.com^
-
-# spotify link sharing
-@@||open.spotify.com
-
-# freenas / truenas usage analytics
-@@||usage.freenas.org
 
 # link lengthener
 @@||aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com^
 
-# gravatar service (avatars; image hosting)
-@@||s.gravatar.com
-
-# mastodon instance (fediverse)
-@@||qoto.org^
-
-# fediverse-related to mastodon themeing
-@@||miy.pw^
-
-# russian news and blogging website
-@@||roem.ru
-
-# google forms link shortener
-@@||forms.gle
-
-# istat menus app ip resolver
-@@||ip.istatmenus.app
-
 # ip geolocation service
 @@||get.geojs.io
-
-# podcasts hosting by spotify
-@@||traffic.megaphone.fm
-
-# fediverse-related instance
-@@||counter.social^
-
-# apple appstore search
-@@||amp-api-search-edge.apps.apple.com^
-
-# pleroma instance (fediverse)
-@@||ghetti.monster^
-
-# microsoft network (news) main website
-@@||www.msn.com
-
-# apple music fairplay token generator
-@@||sf-api-token-service.itunes.apple.com
-
-# internet wesbite related to one topic
-@@||githubcopilotinvestigation.com^
-
-# personal website
-@@||pathologicalfunction.xyz^
-
-# "know your meme" website
-@@||knowyourmeme.com
-
-# nitter instance
-@@||nitter.pw^
-
-# mastodon instance (fediverse)
-@@||ioc.exchange^
-
-# apple music search
-@@||amp-api-edge.music.apple.com
 
 # mastodon instance (fediverse)
 @@||mashiro.top^
 
-# personal website
-@@||bigrat.monster^
-
-# news website about technology
-@@||www.zdnet.com
-
-# news website (netherlands)
-@@||www.nu.nl
-
-# news website (netherlands)
-@@||media.nu.nl
-
-# personal website + self-hosted services
-@@||rfs.pw^
-
-# oss software website (nonprofit)
-@@||thedesk.top^
-
-# personal website + self-hosted services
-@@||zotan.pw^
-
-# joke website + public game software
-@@||thegreatestgameyouwilleverplay.com^
-
 # personal websites + self-hosted services
 @@||whirling.top^
-
-# personal website + self-hosted services
-@@||fellr.net^
-
-# forum (phpbb) for various topics
-@@||fedibb.ml^
-
-# company website (german)
-@@||arbeitswelten-lebenswelten.com^
-
-# gravatar service (avatars; image hosting)
-@@||en.gravatar.com^
-
-# mastodon instance + other fediverse-related services
-@@||kakafe.ga^
-
-# gravatar service api
-@@||lb.gravatar.com
-
-# gravatar service (avatars; image hosting)
-@@||1.gravatar.com
-
-# gravatar service (avatars; image hosting)
-@@||0.gravatar.com
-
-# apple app store api (search)
-@@||api.apps.apple.com
-
-# apple app store api (search)
-@@||api-edge.apps.apple.com
-
-# personal website
-@@||gins.pw^
-
-# personal website + self-hosted services
-@@||chambers.pw^
-
-# personal website (blog) + self-hosted services (fediverse)
-@@||krivokuca.dev^
-
-# personal website
-@@||sabamirin7820.ml^
-
-# personal website
-@@||yottabyte.cf^
-
-# personal website
-@@||nuel.pw^
-
-# personal website + self-hosted services
-@@||dmgd.monster^
-
-# community + self-hosted services
-@@||opendesktop.org^
-
-# self-hosted services + mail
-@@||flying-snail.de^
-
-# google firebase storage
-@@||firebasestorage.googleapis.com
-
-# national security agency (usa)
-@@||www.nsa.gov
-
-# company website - printing and design
-@@||pixels.com^
 
 # reverse ip geolocation service
 @@||jsonip.com
@@ -505,122 +76,17 @@
 # my ip service
 @@||ip.42.pl
 
-# self-hosted services
-@@||wolfie.pw^
-
-# akkoma instance
-@@||hermitmountain.top^
-
-# joke website
-@@||then-who-the-hell-else-are-you-talking-to.com
-
-# mastodon instance + community
-@@||foodin.ga^
-
-# joke website
-@@||well-i-am-the-only-one-here.com
-
-# joke website
-@@||who-the-fuck-do-you-think-you-are-talking-to.com
-
-# joke website
-@@||you-talking-to-me-you-talking-to-me-you-talking-to-me.com
-
-# public url shortener service
-@@||is.gd
-
-# self-hosted services + personal website
-@@||unknown.sbs^
-
-# misskey instance + community
-@@||misskey.cf^
-
-# self-hosted services
-@@||pixels.pizza^
-
-# discord mobile storage cdn
-@@||media.discordapp.net
-
-# personal website
-@@||astelpenkan.ml^
-
-# mastodon instance
-@@||pegelinux.top^
-
-# personal website
-@@||joshuapack.pw
-
-# matrix instance
-@@||dmatrix.duckdns.org^
-
-# matrix instance
-@@||talkie.cf^
-
 # self-hosted services + fediverse
 @@||adsh.no^
-
-# self-hosted services
-@@||metatron.ooo^
-
-# self-hosted services
-@@||radtke.pw^
-
-# personal website + self-hosted services
-@@||erb.pw^
-
-# laboratory company website
-@@||electronicplanet.xyz^
-
-# github pages
-@@||github.io^
 
 # moebius shape website
 @@||moebius.ucoz.com
 
-# personal website
-@@||mousenoises.ml
-
 # anti-ddos service end-user checker page
 @@||check.ddos-guard.net
 
-# amazon s3 storage
-@@||eu-irl-00001.s3.dualstack.eu-west-1.amazonaws.com
-
-# main youtube website
-@@||www.youtube.com
-
-# commerical chat software website + matrix instance
-@@||beeper.com^
-
-# community + company + self-hosted services
-@@||keanu.im^
-
-# google time ntp
-@@||time.google.com
-
-# amazon s3 storage
-@@||s3-us-west-2.amazonaws.com
-
-# self-hosted services
-@@||shrug.pw^
-
-# matrix instance
-@@||bolapara.mywire.org^
-
-# gaming-related modding website
-@@||plutonium.pw^
-
-# dot-ml domain name registrar
-@@||point.ml^
-
-# self-hosted services + community
-@@||owo.monster^
-
 # mastodon instance
 @@||social.telemetrydeck.com^
-
-# mastodon instance (fediverse)
-@@||lostmy.pw^
 
 # enterprise email sending service (russia)
 @@||mail.sendsay.ru
@@ -628,29 +94,11 @@
 # enterprise email sending service (russia)
 @@||sendsay.ru
 
-# pixelfed instance
-@@||pixel.bluemedia.dev
-
-# transactional emails for mailchimp
-@@||mandrillapp.com
-
-# personal website
-@@||snowflai.ml
-
 # censys ipv4 search
 @@||censys-scanner.com^
 
-# itmo university some kind of service
-@@||la.itmo.su^
-
 # personal blog (website) + self-hosted services
 @@||mirv.top^
-
-# international festival website
-@@||internationalmobilefilmfestival.com^
-
-# enterprise email sending service
-@@||sendgrid.net^
 
 # personal blog
 @@||zzncx.top^
@@ -658,17 +106,8 @@
 # enterprise email sending service
 @@||sendpulse.com
 
-# personal website
-@@||peculiar.monster^
-
 # self-hosted services
 @@||bascht.space^
-
-# musician + community
-@@||guildofscientifictroubadours.com^
-
-# google mail
-@@||googlemail.com^
 
 # enterprise mail newsletter service
 @@||unisender.com
@@ -679,131 +118,32 @@
 # enterprise mail analytics main domain
 @@||getresponse.com
 
-# main itmo university website
-@@||itmo.ru
-
-# google translate api
-@@||translate.google.com
-
-# personal blog (security and various)
-@@||gru.gq^
-
 # plausible analytics main company website
 @@||plausible.io
-
-# personal website
-@@||misk.cf^
-
-# personal website
-@@||gema.monster^
-
-# burger king (russia)
-@@||burgerking.ru
-
-# weird therapy consultation website
-@@||counsellinginnorthumberland.com
-
-# personal website
-@@||maigol.ml^
-
-# object storage by digital ocean
-@@||sfo3.digitaloceanspaces.com
-
-# object storage for a fediverse instance
-@@||genserver-social.sfo3.digitaloceanspaces.com
-
-# non-profit company blog
-@@||blog.codeberg.org
 
 # peertube instance
 @@||cliptube.org
 
-# community + fediverse and self-hosted services
-@@||artemai.art^
-
 # test domain
 @@||test.com
-
-# community + blog + non-profit company
-@@||tia-international-photography.com^
-
-# link shortener (widely used by companies)
-@@||onelink.me^
-
-# mastodon instance (fediverse)
-@@||pixel.kitchen^
-
-# nft company (:clown:)
-@@||opensea.io
-
-# pixelfed instance (fediverse)
-@@||pixel.fimidi.com
 
 # sentry deplpoyment downloads (non-tracking)
 @@||downloads.sentry-cdn.com
 
-# cdp platform (tracking, email sending)
-@@||esputnik.com
-
-# signal messaging app
-@@||api.onesignal.com^
+# api for notifications + signal app
+@@||api.onesignal.com
 
 # mailing ip reputation service
 @@||spameatingmonkey.net^
 
-# fediverse instance + personal website
-@@||phoenix.monster^
-
-# roskomnadzor (russian agency)
-@@||rkn.gov.ru^
-
-# mastodon instance (fediverse)
-@@||mastodon.uno^
-
-# peertube instance (fediverse)
-@@||peertube.uno^
-
-# personal website
-@@||michaelpuckett.engineer^
-
-# personal website
-@@||darnell.ooo^
-
-# personal website
-@@||iliana.fyi^
-
 # apple link shortener
-@@||apple.co^
+@@||apple.co
 
 # newrelic landing website (observability platform)
 @@||newrelic.com
 
-# newrelic - email delivery
-@@||_dmarc.newrelic.com
-
-# newrelic - email delivery
-@@||_domainkey.newrelic.com
-
 # mail ip reputation service
 @@||uribl.com^
-
-# mastodon instance (fediverse)
-@@||infosec.exchange^
-
-# personal website + mastodon instance (fediverse)
-@@||fangluo.top^
-
-# personal website
-@@||prgm.x0.com
-
-# gravatar - avatar service
-@@||www.gravatar.com
-
-# artist personal website
-@@||sewerslvt.com
-
-# russian postal service - javascript hosting
-@@||widget.pochta.ru
 
 # yandex domain
 @@||yandex.st
@@ -820,9 +160,6 @@
 # shodan scanning service
 @@||census.shodan.io^
 
-# livechat widget
-@@||livechatinc.com^
-
 # ip reputation service
 @@||mailspike.net^
 
@@ -830,64 +167,31 @@
 @@||spamhaus.org^
 
 # sentry documentation
-@@||docs.sentry.io^
+@@||sentry.io
+@@||docs.sentry.io
+@@||blog.sentry.io
+@@||forum.sentry.io
 
 # microsoft link shortener
-@@||aka.ms^
+@@||aka.ms
 
 # discord link shortener
-@@||discord.gg^
+@@||discord.gg
 
 # ip reputation service
 @@||sorbs.net^
 
-# personal website
-@@||lupine.agency^
-
 # mail ip reputation service
 @@||junkemailfilter.com^
-
-# mastodon instance (fediverse)
-@@||fediverse.pw^
-
-# personal website
-@@||jaiden.pw^
-
-# mastodon instance (fediverse)
-@@||istoleyour.pw^
-
-# mastodon instance (fediverse)
-@@||woolly.monster^
 
 # self-hosted services + fediverse
 @@||owo.justdied.com^
 
-# mastodon instance (fediverse)
-@@||iyasaretai.pw^
-
-# student-driven cloud files sharing
-@@||picloud.pw^
-
-# public stun server
-@@||stun.stunprotocol.org^
-
-# pleroma instance (fediverse)
-@@||sogga.top^
-
-# midjourney link shortener
-@@||s.mj.run
-
 # community + self-hosted services + fediverse
 @@||catposting.agency^
 
-# personal website + self-hosted services + fediverse
-@@||nekoea.red^
-
 # nextcloud push notifications
-@@||push-notifications.nextcloud.com^
-
-# aws random domain
-@@||pages.awscloud.com
+@@||push-notifications.nextcloud.com
 
 # umami analytics landing page
 @@||umami.is
@@ -904,68 +208,23 @@
 # temporary file sharing service
 @@||litter.catbox.moe
 
-# shrimp live camera
-@@||shrimpcam.pw^
-
-# personal website
-@@||und.ooo^
-
-# mastodon instance (fediverse)
-@@||friendsofdesoto.social^
-
-# backblaze b2 object storage
-@@||s3.us-east-005.backblazeb2.com^
-
-# joke website
-@@||frontendfriendly.xyz^
-
 # minecraft accounts seller
-@@||thealtening.com^
-
-# personal website
-@@||jonpark.co.uk^
+@@||thealtening.com
 
 # forms collecting service - javascript hosting
 @@||js.hsforms.net
 
-# personal website
-@@||angus.pw^
-
 # email delivery service - cdp platform
 @@||e-eu.customeriomail.com
 
-# email delivery service - contabo hosting
-@@||_dmarc.contaboserver.net
-
 # self-hosted services
 @@||vmi1220292.contaboserver.net
-
-# email delivery service - cdp platform
-@@||_spf.mlsend.com
 
 # email delivery service - cdp platform
 @@||send-box.ru
 
 # personal website + self-hosted services instance (fediverse)
 @@||sebsite.pw^
-
-# personal website
-@@||erion.cf^
-
-# personal website
-@@||theorangeone.net^
-
-# personal website
-@@||seedy.gq^
-
-# self-hosted services
-@@||epizy.com^
-
-# email delivery service + customer analytics
-@@||emarsys.net
-
-# minetest
-@@||minetest.net^
 
 # fediverse instance
 @@||xscape.top^
@@ -987,3 +246,319 @@
 
 # "are we omemo yet?"
 @@||omemo.top^
+
+# email cdp platform
+@@||directcrm.ru
+
+# apple icloud
+@@||gateway.icloud.com
+
+# amazon link shortener
+@@||amzn.to
+
+# oracle's eloqua email marketing service
+@@||_netblocks.eloqua.com
+@@||_trustedips{1..3}.eloqua.com
+
+# email cdp service (russian)
+@@||mta.directcrm.ru
+@@||mta2.directcrm.ru
+
+# discord email link tracker
+@@||click.discord.com
+
+# personal website + self-hosted services
+@@||sprisa.top^
+
+# email cdp platform + delivery
+@@||mailchi.mp
+
+# emailk cdp platform
+@@||send.aweber.com
+
+# mastodon instance (fediverse)
+@@||mastodon.social^
+
+# hubspot email delivery service (attachments)
+@@||fs1.hubspotusercontent-na1.net^
+
+# proton ag
+@@||proton.me^
+@@||protonmail.com^
+@@||go.getproton.me
+@@||proton-elb.go2cloud.org
+
+# analytics service (website, non-tracking)
+@@||www.simpleanalytics.com
+
+# twitter (x)
+@@||twiter.com
+
+# smtp delivery - aweber
+@@||smtp-*.aweber.com
+
+# ntp servers
+@@||ntp.org^
+
+# self-hosted services
+@@||vm2161550.firstbyte.club
+
+# email cdp
+@@||unsubscribe.convertkit.com
+@@||preferences.convertkit.com
+@@||cdn.convertkit.com
+
+# blockhain scanner
+@@||arkhamintelligence.com^
+
+# road rules (russia)
+@@||pdd.ru.com^
+
+# microsoft link shortener
+@@||go.microsoft.com
+
+# wiki for beget llc
+@@||wiki.beget.tech
+
+# berkeley university survey
+@@||berkeley.qualtrics.com^
+
+# updates from ixsystems
+@@||update.ixsystems.com
+
+# email delivery service
+@@||bounce.*.exacttarget.com
+
+# email cdp and delivery (russian)
+@@||unisender.ru
+@@||smtp.go*.unisender.ru
+@@||mail.unisnd.ru
+
+# mail delivery service
+@@||mailgun.org
+
+# game accounts and others seller platform (russian)
+@@||plati.ru^
+@@||graph.digiseller.ru
+
+# yandex's public link shortener
+@@||clck.ru
+
+@@||page.gitlab.com
+
+# analytics for coqui
+@@||coqui.gateway.scarf.sh
+
+# dnevnik.ru
+@@||csdnevnik.ru^
+
+# link shortener
+@@||taplink.cc^
+
+# mts bank (russian)
+@@||api.mtsdengi.ru^
+
+# data privacy b2b something-something
+@@||iubenda.com^
+
+# mastodon instance (fediverse)
+@@||plantex.top^
+
+# image board (russian)
+@@||reactor.cc^
+
+# payment service (russian)
+@@||widget.cloudpayments.ru
+
+@@||yandex-images.clstorage.net
+
+# private relay (apple)
+@@||proxy.safebrowsing.apple
+
+# email cdp and marketing
+@@||a.klaviyo.com
+@@||static.klaviyo.com
+
+# microsoft container registry
+@@||mcr.microsoft.com^
+
+# steam gifts delivery (russian)
+@@||steamrussia.site^
+
+# aviation weather (us gov)
+@@||aviationweather.gov^
+
+# datadog sucktion
+@@||alb-metrics-agent-shard2-1030968321.us-east-1.elb.amazonaws.com
+
+# huawei cloud dns
+@@||hwclouds-dns.com^
+
+# personal website + self-hosted services
+@@||maxy.top^
+
+# apple
+@@||apple.com$dnstype=TXT
+
+# self-hosted services
+@@||pomf.se^
+
+# internet archive
+@@||web.archive.org
+
+# telegram api
+@@||api.telegram.org
+
+# infourok (russian)
+@@||infourok.ru^
+
+# selectel academy
+@@||adm.selectel.org^
+
+# google maps and other google services
+@@||clients4.google.com
+@@||clients2.google.com
+
+# youtube history
+@@||s.youtube.com
+@@||video-stats.l.google.com
+
+# youtube app for ios
+@@||www.googleapis.com
+@@||youtubei.googleapis.com
+@@||oauthaccountmanager.googleapis.com
+
+# google play
+@@||android.clients.google.com
+
+# google keep
+@@||reminders-pa.googleapis.com
+@@||firestore.googleapis.com
+
+# google fonts
+@@||fonts.gstatic.com
+@@||gstaticadssl.l.google.com
+
+# gmail (google mail)
+@@||googleapis.l.google.com
+
+# google chrome
+@@||dl.google.com
+
+# android tv + firefox widevine
+@@||redirector.gvt1.com
+
+# windows connectivity test
+@@||www.msftncsi.com
+@@||www.msftconnecttest.com
+
+# microsoft web pages
+@@||outlook.office365.com
+@@||products.office.com
+@@||c.s-microsoft.com
+@@||i.s-microsoft.com
+@@||login.live.com
+@@||login.microsoftonline.com
+
+# backup bitlocker recovery (microsoft)
+@@||g.live.com
+
+# microsoft store
+@@||dl.delivery.mp.microsoft.com
+@@||geo-prod.do.dsp.mp.microsoft.com
+@@||displaycatalog.mp.microsoft.com
+
+# windows 10 updates
+@@||sls.update.microsoft.com.akadns.net
+@@||fe3.delivery.dsp.mp.microsoft.com.nsatc.net
+@@||tlu.dl.delivery.mp.microsoft.com
+
+# xbox live
+@@||clientconfig.passport.net
+
+# xbox live achievements
+@@||v10.events.data.microsoft.com
+@@||v20.events.data.microsoft.com
+
+# xbox (other)
+@@||activity.windows.com
+@@||xbox.ipv6.microsoft.com
+@@||device.auth.xboxlive.com
+@@||title.mgt.xboxlive.com
+@@||xsts.auth.xboxlive.com
+@@||title.auth.xboxlive.com
+@@||ctldl.windowsupdate.com
+@@||attestation.xboxlive.com
+@@||xboxexperiencesprod.experimentation.xboxlive.com
+@@||xflight.xboxlive.com
+@@||cert.mgt.xboxlive.com
+@@||xkms.xboxlive.com
+@@||def-vef.xboxlive.com
+@@||notify.xboxlive.com
+@@||help.ui.xboxlive.com
+@@||licensing.xboxlive.com
+@@||eds.xboxlive.com
+@@||www.xboxlive.com
+@@||v10.vortex-win.data.microsoft.com
+@@||settings-win.data.microsoft.com
+
+# skype
+@@||s.gateway.messenger.live.com
+@@||client-s.gateway.messenger.live.com
+@@||ui.skype.com pricelist.skype.com
+@@||apps.skype.com
+@@||m.hotmail.com
+@@||sa.symcb.com
+@@||s{1..5}.symcb.com
+
+# microsoft office
+@@||officeclient.microsoft.com
+
+# bing maps
+@@||dev.virtualearth.net
+@@||ecn.dev.virtualearth.net
+@@||t0.ssl.ak.dynamic.tiles.virtualearth.net
+@@||t0.ssl.ak.tiles.virtualearth.net
+
+# apple music
+@@||itunes.apple.com
+@@||s.mzstatic.com
+@@||is1-ssl.mzstatic.com
+
+# apple id
+@@||appleid.apple.com
+
+# ios weather
+@@||gsp-ssl.ls.apple.com
+@@||gsp-ssl.ls-apple.com.akadns.net
+
+# captive portal (android)
+@@||connectivitycheck.android.com
+@@||clients3.google.com
+@@||connectivitycheck.gstatic.com
+
+# captive portal (windows)
+@@||msftncsi.com
+@@||ipv6.msftncsi.com
+
+# captive portal (ios)
+@@||captive.apple.com
+@@||gsp1.apple.com
+@@||www.apple.com
+@@||www.appleiphonecell.com
+
+# spotify 
+@@||spclient.wg.spotify.com
+@@||apresolve.spotify.com
+@@||api-tv.spotify.com
+
+# dmarc wildcard
+@@||_dmarc.*
+
+# dmarc wildcard
+@@||_domainkey.*
+
+# spf wildcard
+@@||spf.*.*
+@@||_spf.*.*
+@@||_spf-*.*.*
