@@ -137,7 +137,7 @@
 @@||spameatingmonkey.net^
 
 # apple link shortener
-@@||apple.co
+@@||apple.co$
 
 # newrelic landing website (observability platform)
 @@||newrelic.com
