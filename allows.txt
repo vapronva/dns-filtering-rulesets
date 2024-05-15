@@ -552,13 +552,28 @@
 @@||apresolve.spotify.com
 @@||api-tv.spotify.com
 
+# !TODO: proper regex for dmarc 
 # dmarc wildcard
 @@||_dmarc.*
 
-# dmarc wildcard
+# !TODO: proper regex for domainkey
+# domainkey wildcard
 @@||_domainkey.*
 
-# spf wildcard
+# !TODO: proper regex for spf
+# spf wildcard (common names)
 @@||spf.*.*
 @@||_spf.*.*
 @@||_spf-*.*.*
+
+# torrent tracker
+@@||tracker.aletorrenty.pl
+
+# torrent tracker
+@@||tracker.netmap.top
+
+# stretchoid ip scanner
+@@||stretchoid.com^
+
+# contabo's storage
+@@||eu2.contabostorage.com^

@@ -39,3 +39,6 @@
 
 # mobile ads and analytics
 ||cdn.adsgainer.com
+
+# sentry analytics for legalhelp app (russian)
+||sentry.applegalhelp.ru
